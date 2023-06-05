@@ -96,4 +96,5 @@ const languages = {
     "xh-ZA": "Xhosa",
     "yi-YD": "Yiddish",
     "zu-ZA": "Zulu"
+    
 }
