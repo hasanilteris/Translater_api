@@ -6,6 +6,7 @@ const toText = document.querySelector("#to-text");
 const exchange = document.querySelector(".exchange");
 const icons = document.querySelectorAll(".icons");
 
+
 for(let lang in languages) {
     let option = `<option value="${lang}">${languages[lang]}</option>`;
     fromLang.insertAdjacentHTML("beforeend", option);
