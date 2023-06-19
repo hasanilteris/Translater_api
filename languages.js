@@ -2,7 +2,6 @@ const languages = {
     "am-ET": "Amharic",
     "ar-SA": "Arabic",
     "be-BY": "Bielarus",
-    "bem-ZM": "Bemba",
     "bi-VU": "Bislama",
     "bjs-BB": "Bajan",
     "bn-IN": "Bengali",
