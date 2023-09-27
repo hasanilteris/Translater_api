@@ -1,3 +1,3 @@
-# translater_api
+## Translation App
 
-MyMemory api kullanarak Javascript ile Translater uygulaması
+#### A translation project using Javascript and MyMemory API.
